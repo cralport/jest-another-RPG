@@ -1,4 +1,4 @@
-const { TestScheduler } = require('@jest/core');
+
 const Potion = require('../lib/Potion.js');
 
 test('create a health poition object', () => {
